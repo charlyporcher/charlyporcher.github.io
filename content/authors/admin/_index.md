@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.princeton.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. candidate in Economics at Princeton University. 
+bio: I am a Ph.D. candidate in Economics at Princeton University.
 #My research interests include economic geography, migration economics and industrial organization.
 
 interests:
