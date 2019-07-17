@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charly Porcher</title>
+    <link>https://charlyporcher.github.io/authors/charly-porcher/</link>
+    <description>Recent content on Charly Porcher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://charlyporcher.github.io/authors/charly-porcher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Social Learning in Migration (Job Market Paper)</title>
+      <link>https://charlyporcher.github.io/publication/jmp/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/jmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Revealed-Preference Approach to Measuring Information Frictions in Migration</title>
+      <link>https://charlyporcher.github.io/publication/fmp/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/fmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monopsony in Local Labor Markets</title>
+      <link>https://charlyporcher.github.io/publication/monopsony/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/monopsony/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
