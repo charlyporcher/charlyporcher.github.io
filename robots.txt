@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://charlyporcher.github.io/sitemap.xml
