@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://charlyporcher.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,34 @@
     <item>
       <title>Charly Porcher</title>
       <link>https://charlyporcher.github.io/authors/charly-porcher/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/charly-porcher/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Esteban Rossi-Hansberg</title>
+      <link>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ferdinando Monte</title>
+      <link>https://charlyporcher.github.io/authors/ferdinando-monte/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/ferdinando-monte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Eduardo Morales</title>
       <link>https://charlyporcher.github.io/authors/eduardo-morales/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/eduardo-morales/</guid>
       <description></description>
@@ -32,27 +50,36 @@
     <item>
       <title>Thomas Fujiwara</title>
       <link>https://charlyporcher.github.io/authors/thomas-fujiwara/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/thomas-fujiwara/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clara Santamaria</title>
-      <link>https://charlyporcher.github.io/authors/clara-santamaria/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Damien Capelle</title>
+      <link>https://charlyporcher.github.io/authors/damien-capelle/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://charlyporcher.github.io/authors/clara-santamaria/</guid>
+      <guid>https://charlyporcher.github.io/authors/damien-capelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hannah Rubinton</title>
       <link>https://charlyporcher.github.io/authors/hannah-rubinton/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/hannah-rubinton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Santamaria</title>
+      <link>https://charlyporcher.github.io/authors/clara-santamaria/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/clara-santamaria/</guid>
       <description></description>
     </item>
     
