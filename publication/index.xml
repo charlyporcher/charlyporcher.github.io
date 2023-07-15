@@ -6,7 +6,11 @@
     <description>Recent content in Publications on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> Stashed changes
     
 	    <atom:link href="https://charlyporcher.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +18,29 @@
     <item>
       <title>Remote Work and City Structure</title>
       <link>https://charlyporcher.github.io/publication/remote_work_and_city_structure/</link>
+<<<<<<< Updated upstream
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
       
       <guid>https://charlyporcher.github.io/publication/remote_work_and_city_structure/</guid>
       <description></description>
     </item>
     
     <item>
+<<<<<<< Updated upstream
+=======
+      <title>The Role of Establishment Size in the City-Size Earnings Premium in Spain</title>
+      <link>https://charlyporcher.github.io/publication/prs/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/prs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+>>>>>>> Stashed changes
       <title>Measuring Information Frictions in Migration: A Revealed-Preference Approach</title>
       <link>https://charlyporcher.github.io/publication/fmp/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
@@ -47,6 +67,7 @@
       <description></description>
     </item>
     
+<<<<<<< Updated upstream
     <item>
       <title>The Role of Establishment Size in the City-Size Earnings Premium in Spain</title>
       <link>https://charlyporcher.github.io/publication/prs/</link>
@@ -56,5 +77,7 @@
       <description></description>
     </item>
     
+=======
+>>>>>>> Stashed changes
   </channel>
 </rss>

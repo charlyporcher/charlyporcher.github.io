@@ -6,7 +6,11 @@
     <description>Recent content in Hannah Rubinton on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> Stashed changes
     
 	    <atom:link href="https://charlyporcher.github.io/authors/hannah-rubinton/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,9 +27,18 @@
     <item>
       <title>The Role of Establishment Size in the City-Size Earnings Premium in Spain</title>
       <link>https://charlyporcher.github.io/publication/prs/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/publication/prs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Geography of Higher Education and the Spatial Propagation of Skill-Biased Technical Change</title>
+      <link>https://charlyporcher.github.io/publication/cpr/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/cpr/</guid>
       <description></description>
     </item>
     

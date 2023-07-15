@@ -6,7 +6,11 @@
     <description>Recent content in Authors on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> Stashed changes
     
 	    <atom:link href="https://charlyporcher.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +18,11 @@
     <item>
       <title>Charly Porcher</title>
       <link>https://charlyporcher.github.io/authors/charly-porcher/</link>
+<<<<<<< Updated upstream
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
       
       <guid>https://charlyporcher.github.io/authors/charly-porcher/</guid>
       <description></description>
@@ -23,6 +31,7 @@
     <item>
       <title>Esteban Rossi-Hansberg</title>
       <link>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</link>
+<<<<<<< Updated upstream
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</guid>
@@ -35,6 +44,71 @@
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/ferdinando-monte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eduardo Morales</title>
+      <link>https://charlyporcher.github.io/authors/eduardo-morales/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
+      
+      <guid>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< Updated upstream
+      <title>Thomas Fujiwara</title>
+      <link>https://charlyporcher.github.io/authors/thomas-fujiwara/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+=======
+      <title>Ferdinando Monte</title>
+      <link>https://charlyporcher.github.io/authors/ferdinando-monte/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
+      
+      <guid>https://charlyporcher.github.io/authors/ferdinando-monte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Damien Capelle</title>
+      <link>https://charlyporcher.github.io/authors/damien-capelle/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/damien-capelle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hannah Rubinton</title>
+      <link>https://charlyporcher.github.io/authors/hannah-rubinton/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/hannah-rubinton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Santamaria</title>
+      <link>https://charlyporcher.github.io/authors/clara-santamaria/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/clara-santamaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+<<<<<<< Updated upstream
+=======
+      <title>Hannah Rubinton</title>
+      <link>https://charlyporcher.github.io/authors/hannah-rubinton/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/hannah-rubinton/</guid>
       <description></description>
     </item>
     
@@ -66,24 +140,7 @@
     </item>
     
     <item>
-      <title>Hannah Rubinton</title>
-      <link>https://charlyporcher.github.io/authors/hannah-rubinton/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlyporcher.github.io/authors/hannah-rubinton/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clara Santamaria</title>
-      <link>https://charlyporcher.github.io/authors/clara-santamaria/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlyporcher.github.io/authors/clara-santamaria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
+>>>>>>> Stashed changes
       <title></title>
       <link>https://charlyporcher.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

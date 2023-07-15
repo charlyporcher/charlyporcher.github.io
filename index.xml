@@ -6,7 +6,11 @@
     <description>Recent content on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+<<<<<<< Updated upstream
     <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
+>>>>>>> Stashed changes
     
 	    <atom:link href="https://charlyporcher.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +18,11 @@
     <item>
       <title>Publications</title>
       <link>https://charlyporcher.github.io/publication/</link>
+<<<<<<< Updated upstream
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+=======
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+>>>>>>> Stashed changes
       
       <guid>https://charlyporcher.github.io/publication/</guid>
       <description></description>
