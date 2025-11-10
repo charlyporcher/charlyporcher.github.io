@@ -1,0 +1,38 @@
+# Theme metadata
+name = "Default"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+# primary = "rgb(42,85,76)"
+# primary = "rgb(0,105,62)"
+primary = "rgb(4,30,66)"
+
+# Links
+# link = "rgb(213,94,0)"
+# link = "rgb(196,221,136)"
+link = "rgb(1,33,105)"
+
+# link_hover = "rgb(42,85,76)"
+# link_hover = "rgb(0,105,62)"
+link_hover = "rgb(100,167,11)"
+
+# Menu
+menu_primary = "#fff"
+# menu_text = "#34495e"
+# menu_text = "rgb(42,85,76)"
+# menu_text = "rgb(0,105,62)"
+menu_text = "rgb(4,30,66)"
+# menu_text_active = "#2962ff"
+# menu_text_active = "rgb(213,94,0)"
+menu_text_active = "rgb(100,167,11)"
+# menu_text_active = "rgb(196,221,136)"
+menu_title = "#2b2b2b"
+# menu_title = "rgb(213,94,0)"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+#font = "mr_robot"

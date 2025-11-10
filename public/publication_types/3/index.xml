@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 on Charly Porcher</title>
+    <link>https://charlyporcher.github.io/publication_types/3/</link>
+    <description>Recent content in 3 on Charly Porcher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://charlyporcher.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote Work and City Structure</title>
+      <link>https://charlyporcher.github.io/publication/remote_work_and_city_structure/</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/remote_work_and_city_structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Information Frictions in Migration Decisions: A Revealed-Preference Approach</title>
+      <link>https://charlyporcher.github.io/publication/mifmd/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/mifmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migration with Costly Information</title>
+      <link>https://charlyporcher.github.io/publication/jmp/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/publication/jmp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
