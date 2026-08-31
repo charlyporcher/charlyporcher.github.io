@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Charly Porcher</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://charlyporcher.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Charly Porcher</title>
       <link>https://charlyporcher.github.io/authors/charly-porcher/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/charly-porcher/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Eduardo Morales</title>
       <link>https://charlyporcher.github.io/authors/eduardo-morales/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/eduardo-morales/</guid>
       <description></description>
@@ -32,9 +32,27 @@
     <item>
       <title>Thomas Fujiwara</title>
       <link>https://charlyporcher.github.io/authors/thomas-fujiwara/</link>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/thomas-fujiwara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteban Rossi-Hansberg</title>
+      <link>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ferdinando Monte</title>
+      <link>https://charlyporcher.github.io/authors/ferdinando-monte/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://charlyporcher.github.io/authors/ferdinando-monte/</guid>
       <description></description>
     </item>
     
@@ -53,24 +71,6 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
       <guid>https://charlyporcher.github.io/authors/kate-pennington/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Esteban Rossi-Hansberg</title>
-      <link>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlyporcher.github.io/authors/esteban-rossi-hansberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ferdinando Monte</title>
-      <link>https://charlyporcher.github.io/authors/ferdinando-monte/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://charlyporcher.github.io/authors/ferdinando-monte/</guid>
       <description></description>
     </item>
     
